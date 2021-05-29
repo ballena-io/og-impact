@@ -33,10 +33,10 @@
     "uuid": "^3.3.3"
   },
   "devDependencies": {
-    "@types/node": "^10.0",
+    "@types/node": "^14.0",
     "@types/puppeteer-core": "^1.9.0"
   },
   "engines": {
-    "node": "10.x"
+    "node": "14.x"
   }
 }
